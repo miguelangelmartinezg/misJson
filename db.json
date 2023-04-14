@@ -1,86 +1,46 @@
 {
-    "libros": [
-        {
-            "id": 1,
-            "title": "C/C++",
-            "year": 2022,
-            "description": "Curso de Programacion de Miguel Angel Acera",
-            "photo": "https://revistabyte.es/wp-content/uploads/2020/02/62-280x360.jpg",
-            "url": "https://cdn2.tokyvideo.com/videos/165/165804/mp4/691195a69606351bd964c589f8a62ff3b1ed8cb4bcd7611e4c65283674d583d2.mp4?nva=20220912135708&nvb=20220908135708&token=083391979b99f684acf6b"
-        },
-        {
-            "id": 2,
-            "title": "Python by Larry Lutz",
-            "year": 2022,
-            "description": "Guia Paso a Paso Para Aprender a Programación en Python.",
-            "photo": "https://m.media-amazon.com/images/I/419I-gpsUzL.jpg",
-            "url": "https://cdn2.tokyvideo.com/videos/166/166136/mp4/32de5920bb089b9a482492ad6964059dd07db653591a149891b37a27bb7db8ee.mp4?nva=20220908170221&nvb=20220904170221&token=05b62b1b7242d7750cdff"
-        },
-        {
-            "id": 3,
-            "title": "Java Para Novatos by A.M. Vozmedina",
-            "year": 2021,
-            "description": "Como Aprender Programación Orientada a Objeto Con Java",
-            "photo": "https://www.giztab.com/wp-content/uploads/2019/04/Dise%C3%B1o-sin-t%C3%ADtulo-2019-04-21T105911.464-1.png",
-            "url": "https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-        },
-        {
-            "id": 4,
-            "title": "El Lenguaje de Programacion.",
-            "year": 2022,
-            "description": "Aprender de Forma facil y Sencilla en el Mejor lenguaje de Programacion.",
-            "photo": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/718EjHknQ4L.jpg",
-            "url": "https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-        },
-        {
-            "id": 5,
-            "title": "Android Studio By Jose Damas Lujan Castillo",
-            "year": 2021,
-            "description": "Aprender a Desarrollar APlicaciones",
-            "photo": "https://www.alfaomega.com.mx/media/catalog/product/cache/1/image/680x/9df78eab33525d08d6e5fb8d27136e95/b/a/base_25_61.jpg",
-            "url": "https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-        }
-    ],
-    "terror": [
-        {
-            "id": 1,
-            "title": "El secreto de Sinchanee (2021)",
-            "year": 2021,
-            "description": "Un conductor de grúas industriales que sufre de insomnio vuelve a su casa de la infancia tras la muerte prematura de su padre, para descubrir que una presencia paranormal.",
-            "photo": "https://image.tmdb.org/t/p/w300/lgfrROqEoYff8wA7vURs1f5qsPA.jpg?x93679",
-            "url": "https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-        },
-        {
-            "id": 2,
-            "title": "She Will (2022)",
-            "year": 2022,
-            "description": "Veronica, una estrella de cine envejecida, se retira a la campiña escocesa con su enfermera Desi para recuperarse de una doble mastectomía.",
-            "photo": "https://image.tmdb.org/t/p/w300/gxPJZuIBeesHi5gkxtvvXboJ420.jpg?x93679",
-            "url": "https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-        },
-        {
-            "id": 3,
-            "title": "La huérfana: Primer asesinato (2022)",
-            "year": 2022,
-            "description": "Tras escapar de un centro psiquiátrico estonio, Leena Klammer viaja a América haciéndose pasar por Esther, la hija desaparecida de una familia adinerada.",
-            "photo": "https://image.tmdb.org/t/p/w300/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg?x93679",
-            "url": "https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-        },
-        {
-            "id": 4,
-            "title": "Historias que no te atreves a contar (2021)",
-            "year": 2021,
-            "description": "Un reportero recopila historias de un supuesto complejo de apartamentos embrujado.",
-            "photo": "https://image.tmdb.org/t/p/w300/cb54aGmSPs9IZZjMZv4WKU4OXi5.jpg?x93679",
-            "url": "https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-        },
-        {
-            "id": 5,
-            "title": "Glorious (2022)",
-            "year": 2022,
-            "description": "Después de una ruptura, Wes termina en una parada de descanso remota. Se encuentra encerrado dentro del baño con una figura misteriosa que habla desde un puesto adyacente.",
-            "photo": "https://image.tmdb.org/t/p/w300/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg?x93679",
-            "url": "https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
-        }
-    ]
+  "libros":
+    [
+   {
+      "id": 1,
+      "title": "C/C++",
+      "year": 2022,
+      "description": "Curso de Programacion de Miguel Angel Acera",
+      "photo": "https://revistabyte.es/wp-content/uploads/2020/02/62-280x360.jpg",
+      "url": "https://cdn2.tokyvideo.com/videos/165/165804/mp4/691195a69606351bd964c589f8a62ff3b1ed8cb4bcd7611e4c65283674d583d2.mp4?nva=20220912135708&nvb=20220908135708&token=083391979b99f684acf6b"
+   },
+   {
+      "id": 2,
+      "title": "Python by Larry Lutz",
+      "year": 2022,
+      "description": "Guia Paso a Paso Para Aprender a Programación en Python.",
+      "photo": "https://m.media-amazon.com/images/I/419I-gpsUzL.jpg",
+      "url": "https://cdn2.tokyvideo.com/videos/166/166136/mp4/32de5920bb089b9a482492ad6964059dd07db653591a149891b37a27bb7db8ee.mp4?nva=20220908170221&nvb=20220904170221&token=05b62b1b7242d7750cdff"
+   },
+   {
+      "id": 3,
+      "title": "Java Para Novatos by A.M. Vozmedina",
+      "year": 2021,
+      "description": "Como Aprender Programación Orientada a Objeto Con Java",
+      "photo": "https://www.giztab.com/wp-content/uploads/2019/04/Dise%C3%B1o-sin-t%C3%ADtulo-2019-04-21T105911.464-1.png",
+      "url": "https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
+   },
+   {
+      "id": 4,
+      "title": "El Lenguaje de Programacion.",
+      "year": 2022,
+      "description": "Aprender de Forma facil y Sencilla en el Mejor lenguaje de Programacion.",
+      "photo": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/718EjHknQ4L.jpg",
+      "url": "https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
+   },
+   {
+      "id": 5,
+      "title": "Android Studio By Jose Damas Lujan Castillo",
+      "year": 2021,
+      "description": "Aprender a Desarrollar APlicaciones",
+      "photo": "https://www.alfaomega.com.mx/media/catalog/product/cache/1/image/680x/9df78eab33525d08d6e5fb8d27136e95/b/a/base_25_61.jpg",
+      "url": "https://www375.ff-01.com/token=43es7UTB9axxVsF50i1y5g/1662426754/181.64.0.0/207/b/4d/a04d9132c940cc883ed4c9b8654ab4db-480p.mp4"
+   }
+]
+
 }
